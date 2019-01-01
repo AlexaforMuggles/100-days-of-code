@@ -1,10 +1,48 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Kristen
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 1, 2019].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+**Today's Progress:**
+Started Meditation Myth Buster 2.0. Wrote all the handlers and except the question one all others are done. Created the package file and did the initial Github commit. 
+
+**Thoughts:** 
+Manually writing out the code let's you notice patterns that you otherwise don't pick up on if you just clone the sample code. 
+Didn't quite remember how to create a repo and push it to Github initially. Good to practice that. 
+Overall repetition is important for me. In the quest to push yourself it's easy to forget what was done two days or a week ago if I don't repeat certain tasks. I don't have to do brand new things every day of the challenge. Getting routine in the most common tasks is important too. 
+
+**Learnings:**
+
+Launch Requests are only added to intents which the user actively uses. All technical handlers only have Intent requests. 
+
+CanHandlers define the request and return request types (intent or launch) as well as the intent name
+const request = handlerInput.requestEnvelope.request;
+
+handle() contain defined variables, error messages if applicable and response Builders
+Response builders contain speak, reprompt or withSimpleCard and get response. If it's only one of them then it's chained at the end like this: return handlerInput.responseBuilder.getResponse(); 
+
+In the response you can either give a fixed message in the paranthesis or refer to a message which is somewhere else. That is usually cleaner because you can just change the language instead of having to change the outputSpeech every time. 
+
+I thought that i18next was a module to handle the translations but it turns out that the randomness generator is also in there. 
+
+**Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
 
 ### R1D2
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** [My Alexa Skill](http://www.example.com)
+
+### R1D3
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** [My Alexa Skill](http://www.example.com)
