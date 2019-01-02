@@ -31,12 +31,15 @@ I thought that i18next was a module to handle the translations but it turns out 
 
 ### R1D2
 **Today's Progress:** 
+Added how-to-handlers and modified them. Inserted the various messages. Hooked up the data file with the index file. 
 
 **Learnings:**
+I learned what localization is to make an informed decision to remove it. Also by simply renaming some of the sample code intents it forces you to look closely at what depends on what. Had to go back and look at how files are connected to each other. 
 
 **Thoughts:** 
+Merging two kinds of skills really forces you to look at how each line of code works. Tomorrow we'll see what I have missed and what still needs to be debugged.
 
-**Link to work:** [My Alexa Skill](http://www.example.com)
+**Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
 
 ### R1D3
 **Today's Progress:** 
