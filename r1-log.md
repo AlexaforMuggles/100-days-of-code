@@ -43,9 +43,46 @@ Merging two kinds of skills really forces you to look at how each line of code w
 
 ### R1D3
 **Today's Progress:** 
+Added the audio content to the data file. Created the questions file and started the JSON model.
+
+**Learnings:**
+Data entry can seem dull and unproductive but actually it keeps the mind slightly busy while still focusing on the task at hand. It occurred to me that the way I wanted to do the additional feature would simply be too complicated. I have to think more about the questions someone would ask and start from their feelings such as fear, doubt, impatience, etc. 
+
+**Thoughts:** 
+Quite proud that I did my hour today as I trapped a nerve in the back and sitting was initially quite painful. 
+
+**Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
+
+### R1D4
+**Today's Progress:** 
 
 **Learnings:**
 
+
 **Thoughts:** 
 
-**Link to work:** [My Alexa Skill](http://www.example.com)
+
+**Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
+
+
+### R1D5
+**Today's Progress:** 
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
+
+### R1D6
+**Today's Progress:** 
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
