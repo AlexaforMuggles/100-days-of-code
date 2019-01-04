@@ -55,12 +55,13 @@ Quite proud that I did my hour today as I trapped a nerve in the back and sittin
 
 ### R1D4
 **Today's Progress:** 
+Added slots and finished the JSON model
 
 **Learnings:**
-
+It seems that an array will not take slots. I tried to convert it to an object but that didn't work either. I will have to ask in the forum whether slots cannot be assigned to audio files. 
 
 **Thoughts:** 
-
+I continued on the question intent although it seems it may not be possible to do what I want just yet. However I think it's better to have the work done than to assume that it won't work out. 
 
 **Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
 

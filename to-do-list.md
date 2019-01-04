@@ -1,9 +1,9 @@
 ### Meditation Myth Buster 2.0 ###
-[ ] Update Meditation Myth Buster to SDK 2 by rewriting the whole thing
+[x] Update Meditation Myth Buster to SDK 2 by rewriting the whole thing
 [ ] Create a how-to intent handler and let people choose if they want a random myth or ask for a more specific one
 [ ] Create a different experience for a first time user and a repeat user
 [ ] Introduce a leaderboard so people get rewarded for regular usage
-[ ] Include Polly voice recordings instead of Alexa's regular voice
+[x] Include Polly voice recordings instead of Alexa's regular voice
 [ ] Insert a goodbye message that encourages them irregularly to try out similar skills (make sure that this does not come up every time & suggest multiple alternatives)
 [ ] Include sparse and irregular sound effects as a sort of audio reward
 [ ] Include a fresh batch of myths to bust
