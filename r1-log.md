@@ -68,12 +68,47 @@ I continued on the question intent although it seems it may not be possible to d
 
 ### R1D5
 **Today's Progress:** 
+Lambda required a different folder structure so I changed it. Added node modules and .gitignore file. Spent most of the time debugging, not done yet. 
 
 **Learnings:**
+I wanted to debug the work I did so far so I opened the test simulator. I asked for a fact and it just returned the fact but not in audio, like I had specified in code. I was a bit confused so I checked the logs and nothing was there. Turns out the test simulator opened the skill that is live and returned version 1. I have to change the invocation name to test what I am doing right now. I changed it to meditation buster but somehow it still answered with the live skill. That is interesting to know because it means, that even if someone forgets a word they still call my skill. Okay changing the invocation name to Regina Philangee just to be sure. 
 
+*New error 1*
+Got this new error: 
+npm WARN meditation-myth-buster-2.0@1.0.0 No repository field
+
+Fixed it as follows: 
+My solution (do this first, as the StackOverflow solution did not work on its own): 
+1. Make sure that a git repository was initiated to begin with, if not run $ git init
+2. make sure that the node modules you were looking for are installed in the first place, if not run $ npm install package name —save
+3. if the repo exists check the status $ git status 
+4. add all the things that are new $ git add .
+
+
+Solution from StackOverflow: 
+insert the following in the package.json file
+
+"repository": {
+    "type": "git",
+    "url": "git://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0.git"
+}
+
+*New error 2*
+GetNewFactHandler is not defined 
+
+Solution: 
+make sure that it is consistent both in the canHandler and the exports.handler 
+
+*Not yet resolved error*
+Error message: requestAttributes.t is not a function
+
+"errorMessage":"requestAttributes.t is not a function","errorType":"TypeError","stackTrace"
+
+Solution steps:  
+The intent names in the developer console did not match the names in the index.js file --> fixed that, error went away briefly (maybe because of other errors) but is back. 
 
 **Thoughts:** 
-
+Debugging slows things down considerably but it also teaches you a lot. Nice that I feel that I have a shot at solving some of the issues. 
 
 **Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
 
