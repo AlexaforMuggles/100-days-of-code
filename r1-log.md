@@ -114,11 +114,51 @@ Debugging slows things down considerably but it also teaches you a lot. Nice tha
 
 ### R1D6
 **Today's Progress:** 
+Another debugging day. Issue: requestAttributes.t is not a function
+
+    1. removed the Question handler —> did not work, so this issue is not in the question handler
+    2. removed the Launch handler —> did not work, so this issue is not in the launch handler
+    3. inserted ask-sdk-core instead of just ask-sdk —> did not work
+    4. bring all handlers back and insert this in each handler: console.log("THIS.EVENT = " + JSON.stringify(this.event)); —> still did not tell me where the issue was
+    5. inserted line numbers in the console.log message: line 7 is the issue
+    6. compared the launch request handlers with the sample code, no difference except my console.log statements and the file names
+    7. on line 35 in the NewFactHandler there is a LaunchRequest bit that may cause confusion —> did not work either
+    8. finally posed the question in the forum, let’s see if something useful comes back
 
 **Learnings:**
+Learned about logging, which I think will be very practical in the future. 
+Insert this in every handler: 
+console.log("THIS.EVENT = " + JSON.stringify(this.event));
+If you don’t place this in the proper place it will just come back as undefined. 
+
+If that doesn’t work, write out comments for each step that tells you exactly what the system was doing. For example: 
+console.log("MAKING THE HTTPS CALL.");
+
+console.log("SLOT VALUE IS XX" + slotValue + "XX");
 
 
 **Thoughts:** 
-
+Actually I should include good logging statements as a default in every skill. 
+Also it's cool that I am not very emotional about trying again and again and still not resolving the issue. 
 
 **Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
+
+### R1D8
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
+
+
+### R1D9
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
+
