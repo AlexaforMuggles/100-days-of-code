@@ -143,17 +143,37 @@ Also it's cool that I am not very emotional about trying again and again and sti
 
 **Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
 
-### R1D8
+### R1D7
 **Today's Progress:** 
+Added the localizationInterceptor as that was creating the error "Error message: requestAttributes.t is not a function". 
+Installed the additional node modules and worked on more debugging. 
+
+**Error 1 requestAttributes.t is not a function**
+Solution can be found here: 
+https://forums.developer.amazon.com/questions/196277/requestattributest-is-not-a-functionerrortypetypee.html
+
+
+**Error 2 languageStrings is not defined (RESOLVED)**
+
+Solution: added this
+const {languageStrings} = require('./Data/data.js'); 
+
+**Error 3 "errorMessage": "localizationClient.t is not a function"**
+Posted this in the Alexa dev forum. 
+https://forums.developer.amazon.com/questions/196345/localizationclientt-is-not-a-function-type-error.html
+
 
 **Learnings:**
+localizationInterceptors are needed even if you are not using other languages. 
+When you give reputation points in the Dev forum you are giving away points from your own reputation. I should stop doing that. Very strange mechanism. 
 
 **Thoughts:** 
+I am very grateful for the people who answer issues on the developer forum. I did some of that as well yesterday. 
 
 **Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
 
 
-### R1D9
+### R1D8
 **Today's Progress:** 
 
 **Learnings:**
