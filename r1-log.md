@@ -175,10 +175,23 @@ I am very grateful for the people who answer issues on the developer forum. I di
 
 ### R1D8
 **Today's Progress:** 
+Back after a prolonged bout of sickness. Debugged localization issue and separated facts from language. Unfortunately still have a bug. 
+New issue: it only reads WELCOME_MESSAGE instead of reading the actual message. This is an issue with the whole require mechanism. Something is not being exported correctly. 
 
 **Learnings:**
+Previous bug could be solved because of help from the Alexa Dev forum: 
+https://forums.developer.amazon.com/questions/196345/localizationclientt-is-not-a-function-type-error.html
+
+He also provided more resources which I should eventually consult: 
+More about arguments: 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments#Rest_default_and_destructured_parameters
+
+More about localization: 
+https://developer.amazon.com/blogs/alexa/post/285a6778-0ed0-4467-a602-d9893eae34d7/how-to-localize-your-alexa-skills
+
 
 **Thoughts:** 
+Glad I woke up early without an alarm to take this back up. I am wondering whether it would make sense to read up on everything and do something else tomorrow. This debugging business is very slow. Necessary but a win for a change would be nice. Maybe take a crack at the Decision Tree tomorrow. 
 
 **Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
 
