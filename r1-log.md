@@ -195,3 +195,14 @@ Glad I woke up early without an alarm to take this back up. I am wondering wheth
 
 **Link to work:** [Meditation Myth Buster 2.0](https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0)
 
+### R1D9
+**Today's Progress:** 
+Taking a break from Meditation Myth Buster to take a stab at an issue I have been having with a decision tree skill. Downloaded the sample code, tested the model and then made substitutions only to run up against the same issue I have been having for a long time now. 
+
+**Learnings:**
+I stumbled over a best practice to-do: create a customizations.md file and detail exactly what has been substituted / removed or added from the sample code. 
+
+**Thoughts:** 
+I need to understand logging better so that I can figure out exactly where and why the problem occurs. Tried researching generic logging in Node yesterday but that's not helpful. I need to more Alexa-specific information. 
+
+**Link to work:** Haven't put this on Github just yet. 
