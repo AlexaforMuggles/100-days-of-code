@@ -235,3 +235,19 @@ I still have open questions around finding the specific item that is undefined.
 It occurred to me that slot resolutions and mappings might be a good topic for Alexa office hours. By myself I am going in circles, considering that I had this issue months ago already.
 
 **Link to work:** Haven't put this on Github just yet because I want to eventually save everything with a different name. 
+
+### R1D11
+**Today's Progress:** 
+Did a code deep dive today because I need to learn how to implement certain features from SDK2 before I can continue with the tasks on my todo-list. 
+Tomorrow I can finish up by comparing what I have with this: 
+https://github.com/alexa/alexa-guided-walkthrough-using-node-sdk/blob/master/part-2/index.js
+
+**Learnings:**
+I am starting to understand how attributes work but I need to study this more closely to be able to just come up with my own score and leaderboards.
+
+**Thoughts:** 
+Not many. 
+
+**Link to work:** Haven't put this on Github, not sure I will. 
+
+
