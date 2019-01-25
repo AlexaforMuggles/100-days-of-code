@@ -250,4 +250,111 @@ Not many.
 
 **Link to work:** Haven't put this on Github, not sure I will. 
 
+### R1D11
+**Today's Progress:** 
+Finally debugged the decision tree skill. It turns out that the sequence of the slot mappings in the key was incorrect and it couldn't actually access the slot mappings. Furthermore replacing the CompletedRecommendationIntent handle section solved the *** Cannot read property 'name' of undefined *** issue. Not quite finished with the slot mappings yet but I am happy since this means that I may have a shot at publishing the elevate me skill this weekend the way I wanted to for months. 
 
+**Learnings:**
+Just taking the time to look at the code after a break was helpful. 
+
+**Thoughts:** 
+Mostly feel relief. I was starting to think whether I have bitten off more than I could chew and whether I should involve a code-mentor. That may still be a valid idea but for now this gives me quite a bit of motivation. 
+
+**Link to work:** Not on Github as I wanted to create a functioning skill but create the repo under another name. 
+
+### R1D12
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D12
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D12
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D12
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D12
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D12
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D12
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+
+### R1D12
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
