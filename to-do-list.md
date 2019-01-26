@@ -14,8 +14,8 @@
 [ ] Include sparse and irregular sound effects as a sort of audio reward
 
 ### Elevate Me ###
-[ ] Debug existing issue https://developer.amazon.com/blogs/alexa/post/37da1dc8-08a1-4a65-a964-762517f3ddd7/why-console-log-is-your-friend 
-[ ] Include a fourth dimension: how much time do you have right now? 1. 10 min or less 2. 30 min or less 3. 1 hour 4. 90 min or more
+[x] Debug existing issue https://developer.amazon.com/blogs/alexa/post/37da1dc8-08a1-4a65-a964-762517f3ddd7/why-console-log-is-your-friend 
+[x] Include a fourth dimension: how much time do you have right now? 
 
 ### Badass Women ###
 [ ] Write the text that you want to use

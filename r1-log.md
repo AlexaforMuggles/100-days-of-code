@@ -264,15 +264,16 @@ Mostly feel relief. I was starting to think whether I have bitten off more than 
 
 ### R1D12
 **Today's Progress:** 
-
+Finished the mappings on the decision tree skill. Added the ability to write the descriptions. Everything works perfectly. Tomorrow I will create the whole skill under the name "Elevate Me" and submit it for certification. I have to remember to create a slightly altered policy to make sure that nobody uses it as a substitute for therapy. 
 
 **Learnings:**
-
+Having a separate file with the slot mappings makes sense. That way if something goes wrong the index.js file is still okay.
 
 **Thoughts:** 
-
+I feel very relieved that everything works the way I envisioned it. 
 
 **Link to work:** 
+Will link up everything to the final repo name but I think I will keep it private.
 
 ### R1D12
 **Today's Progress:** 
