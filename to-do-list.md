@@ -13,7 +13,7 @@
 [ ] Create a different experience for a first time user and a repeat user
 [ ] Include sparse and irregular sound effects as a sort of audio reward
 
-### Elevate Me ###
+### Elevate Me ### DONE ###
 [x] Debug existing issue https://developer.amazon.com/blogs/alexa/post/37da1dc8-08a1-4a65-a964-762517f3ddd7/why-console-log-is-your-friend 
 [x] Include a fourth dimension: how much time do you have right now? 
 

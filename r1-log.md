@@ -275,17 +275,20 @@ I feel very relieved that everything works the way I envisioned it.
 **Link to work:** 
 Will link up everything to the final repo name but I think I will keep it private.
 
-### R1D12
+### R1D13
 **Today's Progress:** 
-
+Ironed out the last few details, did some additional testing, added the fallback intent for graceful error handling and submitted the Elevate Me skill for certification. 
 
 **Learnings:**
+I was so focused on getting Alexa skills to work that I didn't take the time to understand the capabilities of the code editor. A simple step like installing a linter can really help me learn more about coding in general. Moral of the story: take 30 min to an hour to understand the tools you are working with. It will pay off later. 
 
+The test simulator pulled up an older version of Elevate Me. Had to delete it to make everything work. Important to remember that this can be the case. 
 
 **Thoughts:** 
-
+It's always nice to submit a skill to the store. Feels like I accomplished something, especially after having tried to get this skill to work since August. 
 
 **Link to work:** 
+Elevate Me https://github.com/AlexaforMuggles/elevate-me
 
 ### R1D12
 **Today's Progress:** 
