@@ -290,7 +290,21 @@ It's always nice to submit a skill to the store. Feels like I accomplished somet
 **Link to work:** 
 Elevate Me https://github.com/AlexaforMuggles/elevate-me
 
-### R1D12
+### R1D14
+**Today's Progress:** 
+Elevate Me got accepted into the Alexa skill store, yay. Didn't work on it today though. 
+Today I continued with my NodeJS course, specifically finishing up the MongoDB portion and starting with the Socket.IO section. 
+
+**Learnings:**
+I may or may not have found a solution to one of my bugs relating to paths. 
+
+**Thoughts:** 
+I am glad to be done with MongoDB because it wasn't fun and I didn't see the applicability to Alexa. I find it a very convoluted way of working on a database and although I am sure it's got its fans and good use cases I am glad that DynamoDB just makes more sense to me overall. 
+
+**Link to work:** 
+Chat Bot App: https://github.com/AlexaforMuggles/node-chat-app
+
+### R1D15
 **Today's Progress:** 
 
 
@@ -302,7 +316,7 @@ Elevate Me https://github.com/AlexaforMuggles/elevate-me
 
 **Link to work:** 
 
-### R1D12
+### R1D16
 **Today's Progress:** 
 
 
@@ -314,7 +328,7 @@ Elevate Me https://github.com/AlexaforMuggles/elevate-me
 
 **Link to work:** 
 
-### R1D12
+### R1D17
 **Today's Progress:** 
 
 
@@ -326,19 +340,7 @@ Elevate Me https://github.com/AlexaforMuggles/elevate-me
 
 **Link to work:** 
 
-### R1D12
-**Today's Progress:** 
-
-
-**Learnings:**
-
-
-**Thoughts:** 
-
-
-**Link to work:** 
-
-### R1D12
+### R1D18
 **Today's Progress:** 
 
 
@@ -351,7 +353,7 @@ Elevate Me https://github.com/AlexaforMuggles/elevate-me
 **Link to work:** 
 
 
-### R1D12
+### R1D19
 **Today's Progress:** 
 
 
