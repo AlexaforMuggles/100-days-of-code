@@ -306,15 +306,16 @@ Chat Bot App: https://github.com/AlexaforMuggles/node-chat-app
 
 ### R1D15
 **Today's Progress:** 
-
+Continued with Socket.IO in the NodeJS course. Forgot to commit in the morning.
 
 **Learnings:**
-
+Not quite sure just yet how applicable this will be to other things.
 
 **Thoughts:** 
-
+This may deepen my understanding of emit and listening functions in Alexa. Not sure yet though. 
 
 **Link to work:** 
+Chat Bot App: https://github.com/AlexaforMuggles/node-chat-app
 
 ### R1D16
 **Today's Progress:** 
