@@ -319,15 +319,16 @@ Chat Bot App: https://github.com/AlexaforMuggles/node-chat-app
 
 ### R1D16
 **Today's Progress:** 
-
+Continued with the Node course. 
 
 **Learnings:**
-
+Event emitting and listening as well as broadcasting. 
 
 **Thoughts:** 
-
+Another break due to illness, hope I am done now with that and the rest of the 100 day challenge can continue with more consistency. 
 
 **Link to work:** 
+Chat Bot App: https://github.com/AlexaforMuggles/node-chat-app
 
 ### R1D17
 **Today's Progress:** 
