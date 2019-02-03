@@ -30,6 +30,9 @@
 [ ] explains the strengths
 [ ] includes a daily challenge
 
+### Alexa Learning ###
+[ ] Code Deep Dive foodie.js
+
 ### Mind Games ###
 #Advanced#
 [ ] Convert all options in Twine into one or two words and have the rest in the text field

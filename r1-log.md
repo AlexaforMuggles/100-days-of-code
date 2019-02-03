@@ -332,15 +332,19 @@ Chat Bot App: https://github.com/AlexaforMuggles/node-chat-app
 
 ### R1D17
 **Today's Progress:** 
-
+Went through the first 170 lines of code in the foodie skill and described what every bit of it does. Still have about 770 lines of code to go. 
 
 **Learnings:**
-
+Found some great and very detailed documentation about the ASK SDK2 that allows me to look up what every piece of code actually is and what it does and what it's connected to.  
+Furthermore this skill has some good logging examples that I can use in other skills I build. 
 
 **Thoughts:** 
-
+It's great to have found such a detailed resource and it allows me to do code deep-dives in complex Alexa skills I would otherwise have no shot at understanding in detail. 
+Curious to see whether I understand the more complex functions that come further down the line. 
+Initially I just wanted to build Alexa skills in these 100 days but I noticed quickly that I was plateauing, fighting with some of the same errors I had issues with for months. By a) progressing with my NodeJS course and b) doing new things such as this code deep dive I can move forward and then return to issues armed with new knowledge and tools. 
 
 **Link to work:** 
+Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 ### R1D18
 **Today's Progress:** 
