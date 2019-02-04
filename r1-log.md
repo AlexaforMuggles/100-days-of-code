@@ -348,16 +348,16 @@ Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 ### R1D18
 **Today's Progress:** 
-
+Continued with the code deep dive from lines 170 to 438. 
 
 **Learnings:**
-
+Even if you use MomentJS you still need to add quite a bit of code to capture dates in the location of the user. 
 
 **Thoughts:** 
-
+It's getting easier and making much more sense than it used to. 
 
 **Link to work:** 
-
+Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 ### R1D19
 **Today's Progress:** 
