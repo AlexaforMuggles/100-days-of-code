@@ -361,6 +361,165 @@ Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 ### R1D19
 **Today's Progress:** 
+Finished the code deep dive. Also read the majority of the debugging chapter in the Node Cookbook. 
+
+**Learnings:**
+ Open questions: 
+
+
+defines whether the slots are required to fulfill the intent or not. Not sure why this needs to be hard-coded here, as it's already defined in the console. 
+not sure why the object called responseBuilder is set equal to the handler output 
+ .addElicitSlotDirective("deliveryOption") // not sure why it doesn't include all the slots that are being elicited but only the deliveryOption
+What's the difference between an error message and an error stack? 
+What is the difference between a response and a request interceptor? 
+What does the process keyword/method do? 
+How does the saveNewlyFilledSlotsToSessionAttributes interceptor interact with other aspects of persistence? 
+if (currentIntentSlots[key].value && !currentIntent.slots[key].value) { // don't know what this does exactly
+currentIntent.slots[key] = currentIntentSlots[key]; // don't know what this does exactly
+getSlotValues is a function I don't understand at all how it works. I see the lines but I dont' understand what it means. 
+
+
+
+Learnings: 
+What is in the request envelope? Contains the incoming Request and other context.
+What does the SIPRecommendationIntentHandler do exactly? It figures out if all the required slots are filled thanks to the disambiguate helper functions.   
+it's super obvious but if I want to know exactly what aspects are in the sessionAttributes or in the requestEnvelope or wherever I can just log those things
+seems a bit generic, shouldn't it be addressIntent or some specified name? --> no. This allows this code to be re-usable in different intents.
+what is currentIntent is needed for? When we're collecting slots the program needs to know where we are. In case there is an interruption slots from the currentIntent get transferred to the profile where they can later by found again. 
+Is interceptor just a fancy name for helper function? No, there are a bunch of helper functions which mainly initialize stuff or provide messages. Interceptors are more complex and cover quite a bit of logic. Helper functions are used within interceptors. 
+How are interceptors related to each other? They can be linked but don't have to be, as they are perfectly capable of standing alone. Linked interceptors might perform sequential tasks whereas some interceptors share an activity such as initializing a process. 
+how does this address interceptor relate to other address functions above? My guess is that the handlers just query address details whereas the interceptors actually add them to the profile. 
+What is disambiguation? I think it means that not all slots have been filled and some kind of reprompt is necessary to fill all required slots. 
+not sure what the difference is between the getNewSlots function and the gotSlotsValues function --> 
+        // intentHasNewlyFilledSlots given a previous and current intent and a set of 
+        // slots, this function will compare the previous intent's slots with current 
+        // intent's slots to determine what's new. The results are filtered by the 
+        // provided array of "slots". For example if you wanted to determine if there's
+        // a new value for the "state" and "city" slot you would pass the previous and
+        // current intent and an array containing both strings. If previous is undefined,
+        // all filled slots are treated as newly filled. 
+        // Returns: 
+        // {
+        //   found: (true | false)
+        //   slots: object of slots returned from getSlots
+        // }
+
+**Thoughts:** 
+Interceptors and helper functions are more complex than the rest of the code. This may have to do with familiarity as they're part of the new SDK2 and also not necessarily part of simple skill architecture. 
+
+**Link to work:** 
+Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
+
+### R1D20
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D21
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D22
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D19
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D19
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D19
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D19
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D19
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D19
+**Today's Progress:** 
+
+
+**Learnings:**
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+### R1D19
+**Today's Progress:** 
 
 
 **Learnings:**

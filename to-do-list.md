@@ -31,7 +31,7 @@
 [ ] includes a daily challenge
 
 ### Alexa Learning ###
-[ ] Code Deep Dive foodie.js
+[x] Code Deep Dive foodie.js
 
 ### Mind Games ###
 #Advanced#
