@@ -412,41 +412,48 @@ Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 ### R1D20
 **Today's Progress:** 
-
+Late with the logging, but I did do my coding in the last two days nevertheless. Emitting and listening to events. 
+Then I read a big chunk of the Debugging chapter in the Node Cookbook. 
 
 **Learnings:**
-
+I have seen Browser based developer tools but I never understood anything about how they worked. Now I know at least a tiny bit more. 
 
 **Thoughts:** 
-
+Some things about coding and developers are still deeply mystifying to me. For example they acknowledge that some error messages are completely unreadable and incomprehensible so somebody develops a module that supposedly solves that. Only then you look at the results and almost all the information has disappeared. And I am like "gee yes it's more nicely formatted but instead not being able to comprehend it now the info has just disappeared. How the f**k is that better???
 
 **Link to work:** 
+Node Chat app: https://github.com/AlexaforMuggles/node-chat-app
 
 ### R1D21
 **Today's Progress:** 
-
+NodeJS class: finished the broadcasting events lecture and moved on to message generator tests. Got stuck with a bug so after not being able to solve it for a while I spent the rest of my hour finishing the Debugging chapter in the Node Cookbook. 
 
 **Learnings:**
-
+Hovering is a good idea in developer tools. Furthermore breakpoints are set according to in which functions you suspect the bug to be. 
 
 **Thoughts:** 
-
+The debugging process still makes very little sense to me. Instead of going all cryptic why doesn't the system just say "Line 35 this and this is broken." Instead loggers produce all these useless lines. But maybe I have to humbly accept that maybe some of that is not rubbish, a bit like when genetists thought we were full of "junk DNA" but they just didn't understand yet the whole point. 
 
 **Link to work:** 
+Did not want to commit the bug to Github. 
 
 ### R1D22
 **Today's Progress:** 
-
+Spent the hour 50-50 doing two completely different things. First half was trying to debug an issue I had in the NodeJS class. My test keeps failing although I have exactly the same code as the instructor. After trying to track it down for a while I finally posted the question in the forum. Let's see what comes back. 
+For the second part I returned to the Meditation Myth Buster 2.0 skill that I had temporarily abandoned due to not being able to solve the bugs. 
 
 **Learnings:**
-
+Activated a linter a few days ago that I hadn't used on the Meditation Myth Buster code. Got Alexa to successfully access the Welcome Message after fixing some of the issues and changing up the language.js and the language variable, something that hadn't worked last time I worked on this skill. However now it seems to have issues accessing the actual data. 
 
 **Thoughts:** 
-
+There is a possibility that something in the linked files is wrong. I should check that next time I work on the chat bot. 
+Yes debugged at least parts of the problem that I spent days trying to debug before taking a detour with other projects. I do feel that my other activities taught me things that are helpful now and should help me move forward with this skill. I feel prepared and somewhat ready to try to move forward with this skill. 
 
 **Link to work:** 
+I didn't do any new commits since I didn't want to have wrong code in my chat bot. 
+Meditation Myth Buster 2.0: https://github.com/AlexaforMuggles/Meditation-Myth-Buster-2.0
 
-### R1D19
+### R1D23
 **Today's Progress:** 
 
 
@@ -458,7 +465,7 @@ Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 **Link to work:** 
 
-### R1D19
+### R1D24
 **Today's Progress:** 
 
 
@@ -470,7 +477,7 @@ Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 **Link to work:** 
 
-### R1D19
+### R1D25
 **Today's Progress:** 
 
 
@@ -482,7 +489,7 @@ Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 **Link to work:** 
 
-### R1D19
+### R1D26
 **Today's Progress:** 
 
 
@@ -494,7 +501,7 @@ Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 **Link to work:** 
 
-### R1D19
+### R1D27
 **Today's Progress:** 
 
 
@@ -506,7 +513,7 @@ Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 **Link to work:** 
 
-### R1D19
+### R1D28
 **Today's Progress:** 
 
 
@@ -518,7 +525,7 @@ Code Deep Dives: https://github.com/AlexaforMuggles/deep-dives
 
 **Link to work:** 
 
-### R1D19
+### R1D29
 **Today's Progress:** 
 
 
