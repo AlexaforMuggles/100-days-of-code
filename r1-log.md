@@ -455,15 +455,16 @@ Meditation Myth Buster 2.0: https://github.com/AlexaforMuggles/Meditation-Myth-B
 
 ### R1D23
 **Today's Progress:** 
-
+Tried to debug Meditation Myth Buster but made no progress at all. 
 
 **Learnings:**
-
+I tried out different ways to log things and checked the outcome in CloudWatch. Some of the suggestions that I had written down created actual code errors. I captured what lines of logging code led to what kind of log. 
 
 **Thoughts:** 
-
+I truly do not understand fully enough how data is accessed across different files and why it sometimes just reads the message title or the content and sometimes the expected message. 
 
 **Link to work:** 
+No commits since I didn't debug anything that didn't already work yesterday. 
 
 ### R1D24
 **Today's Progress:** 
