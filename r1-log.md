@@ -468,15 +468,23 @@ No commits since I didn't debug anything that didn't already work yesterday.
 
 ### R1D24
 **Today's Progress:** 
-
+Went through the new features tutorial to understand newly released Alexa SDK features. 
 
 **Learnings:**
-
+* When you click on certification it will tell you info such as when a skill was certified as well as the certification history. 
+* In the certification box there is a country availability details drop-down
+* In test tab you can test either the development version or the live version
+* It’s not possible to swap invocation names of published skills
+* It is possible to withdraw a skill from submission if you find a bug after submitting
+* Alexa-hosted skills can be done within the developer console (it creates a hello world skill). You can change the code in the code tab. The code is not hosted on your own account and you are not paying  for it, Amazon is. It has a default region that cannot be changed.
+* Click on interfaces and activate Auto Delegation —> this means you don’t have to code dialog delegation into your index.js anymore. You still have to make the slots required for this to work.
+* If you click on an intent there is a new button called utterance profiler. You can insert something there and then it will give you info such as what intent was chosen, what slots were used, which slots are filled or not and etc. What is nice is that you can test what is possible and what doesn’t work without having to go through the testing tool and playing the whole thing over and over again
 
 **Thoughts:** 
-
+Most excited about the Auto Delegation feature. It will be much simpler not having to code that feature into every handler. 
 
 **Link to work:** 
+Nada
 
 ### R1D25
 **Today's Progress:** 
