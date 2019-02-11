@@ -32,6 +32,7 @@
 
 ### Alexa Learning ###
 [x] Code Deep Dive foodie.js
+[ ] Insert a reminder into an existing skill and get it to work
 
 ### Mind Games ###
 #Advanced#

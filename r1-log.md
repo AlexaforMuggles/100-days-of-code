@@ -488,15 +488,20 @@ Nada
 
 ### R1D25
 **Today's Progress:** 
-
+Played around with the sample code of the reminder API. 
 
 **Learnings:**
-
+Test console does not work for reminder app
+If you use your own device use a unique invocation name, otherwise it will just read your real reminders
+The permissions tab is a great way to introduce simple advanced features without needing to add additional code. 
+Granting the permission was not very intuitive. Initially I thought it was not possible in my locale but I eventually managed to set the reminder permission.  
+Error 401 is an authorization error. 
 
 **Thoughts:** 
-
+It doesn't seem like the user has the power to actually create a reminder. Rather they pick one that is offered. Not sure yet if that's just a feature of the demo version or if that is actually the case. 
 
 **Link to work:** 
+Reminders folder in Deep Dives: https://github.com/AlexaforMuggles/deep-dives/tree/master/Reminder
 
 ### R1D26
 **Today's Progress:** 
