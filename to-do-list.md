@@ -33,6 +33,13 @@
 ### Alexa Learning ###
 [x] Code Deep Dive foodie.js
 [ ] Insert a reminder into an existing skill and get it to work
+[ ] Deep Dive a complex skill and write up which Node functions, methods, etc. are used
+
+### Our World in Data ###
+[ ] Research at least 30 questions
+[ ] Insert questions
+[ ] Add chimpIntent
+[ ] Add leaderboard/batches
 
 ### Mind Games ###
 #Advanced#

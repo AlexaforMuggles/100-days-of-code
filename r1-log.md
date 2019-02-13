@@ -505,15 +505,17 @@ Reminders folder in Deep Dives: https://github.com/AlexaforMuggles/deep-dives/tr
 
 ### R1D26
 **Today's Progress:** 
-
+50-50 day: continued with the Node course, specifically event acknowledgements and debugging. Then I worked on a new Alexa skill that is based on Our World in Data.
 
 **Learnings:**
-
+My bug was due to something I did ten days ago. It's weird that lots of results still turned out as expected but that it came to bite me so much later. Also it was a fairly simple mistake but I didn't look in the right file: arguments were missing in my function in the message.js file. 
 
 **Thoughts:** 
-
+Created a references.md file and am dumping all the answers as well as the references there. Better safe than sorry. 
+Also it occurred to me that I could do a code deep dive and focus on the NodeJS features that are used on each line. I am very hazy on the details and it would help thinking about what functions, methods, libraries etc. are being used. 
 
 **Link to work:** 
+Will publish once the skill is certified. 
 
 ### R1D27
 **Today's Progress:** 
