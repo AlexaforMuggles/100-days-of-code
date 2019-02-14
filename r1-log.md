@@ -519,15 +519,17 @@ Will publish once the skill is certified.
 
 ### R1D27
 **Today's Progress:** 
-
+Worked on researching the content for the "Our World in Data" Alexa skill. 20 questions done, 10 more to go. 
 
 **Learnings:**
-
+No technical learnings today, just interesting facts about the world. 
 
 **Thoughts:** 
-
+I want to commit to regularly visit that page and read the articles in full, not just skim them. Some important issues are actually quite surprising once you research causes and effects. 
+Sometimes it's nice to take a coding break while still advancing the app itself. 
 
 **Link to work:** 
+Will publish once the skill is certified. 
 
 ### R1D28
 **Today's Progress:** 
