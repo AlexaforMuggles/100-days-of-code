@@ -533,15 +533,17 @@ Will publish once the skill is certified.
 
 ### R1D28
 **Today's Progress:** 
-
+Felt the need to circle back to some basic Javascript so I started the FreeCodeCamp Basic JS course. 
 
 **Learnings:**
-
+I forgot that JavaScript goes from right to left when reading variables. Didn't remember that. 
 
 **Thoughts:** 
-
+Not sure why I tend to rush and not read the instructions properly. Apply your mindfulness muscle to coding. 
+Also it's nice to do something that is less video tutorial and more action. 
 
 **Link to work:** 
+No Github, just freecodecamp.org
 
 ### R1D29
 **Today's Progress:** 
