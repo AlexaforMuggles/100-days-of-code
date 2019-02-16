@@ -547,12 +547,121 @@ No Github, just freecodecamp.org
 
 ### R1D29
 **Today's Progress:** 
+Javascript basics on FreeCodeCamp. Read a detailed article and took notes about how to undestand programming tasks
+Made notes on the debugging chapter I had read and highlighted a few days ago. 
 
+**Learnings:**
+Here are a few questions I want to ask myself in the future when I do coding challenges: 
+Some higher level questions to answer when solving challenges? 
+* What do I already know? 
+* What exactly is already provided? 
+* What does this thing need to do? 
+* What functions are necessary? 
+* What information needs to be defined? 
+* Where is that information stored? 
+* How can I access this information? 
+
+**Thoughts:** 
+The speed at which you work needs to match your competence. You cannot go fast if you have no idea what you are doing. Some JS tasks were easy because I actually remembered but then I noticed how I tried to go at the same speed with the next task, even if that was much more complex and unsurprisingly that led to many mistakes. 
+
+**Link to work:** 
+No Github, just freecodecamp.org and my private note app. 
+
+### R1D29
+**Today's Progress:** 
 
 **Learnings:**
 
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
 
 **Thoughts:** 
 
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D29
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
 
 **Link to work:** 
