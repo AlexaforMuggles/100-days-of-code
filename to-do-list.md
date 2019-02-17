@@ -35,6 +35,14 @@
 [ ] Insert a reminder into an existing skill and get it to work
 [ ] Deep Dive a complex skill and write up which Node functions, methods, etc. are used
 
+### Alexa Blueprints ###
+[ ] Explore the Amazon AI Plugin for WordPress https://wordpress.org/plugins/amazon-polly/
+[ ] Explore Blog blueprint https://blueprints.amazon.com/bp/amzn.ask.bp.560100e2-ff88-496b-846c-6fb44445d5d0?ref_=ask_bp_home_3
+[ ] Explore the flash briefing feature where you can add content directly https://blueprints.amazon.com/bp/amzn.ask.bp.0758a769-9b10-4089-9679-1791ee6bfa5f?ref_=ask_bp_home_2_0
+[ ] Explore the trivia blueprint https://blueprints.amazon.com/bp/amzn.ask.bp.31519956-ff30-4d21-93dd-35e9777e2aa8?ref_=ask_bp_home_3_4
+[ ] Explore the quiz blueprint https://blueprints.amazon.com/bp/amzn.ask.bp.ce6a1169-85b2-4ddc-a5f2-c263f102c402?ref_=ask_bp_home_4_0
+[ ] Explore the flashcard blueprint https://blueprints.amazon.com/bp/amzn.ask.bp.0c669e8b-6578-4577-b455-88890e46a27e?ref_=ask_bp_home_4_1
+
 ### Our World in Data ###
 [ ] Research at least 30 questions
 [ ] Insert questions

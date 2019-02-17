@@ -567,16 +567,21 @@ The speed at which you work needs to match your competence. You cannot go fast i
 **Link to work:** 
 No Github, just freecodecamp.org and my private note app. 
 
-### R1D29
+### R1D30
 **Today's Progress:** 
+More Javascript basics on FreeCodeCamp. Also answered a few questions in the Alexa Dev help forum. 
 
 **Learnings:**
+The questions I wrote down yesterday helped me to progress further with the challenges that stumped me. 
 
 **Thoughts:** 
+Way slower than before since some of the challenges didn't make that much sense to me. 
+Amazon published Blueprints so people can make skills without any coding knowledge. Will make it harder to monetize that knowledge but of course opening things up for more people is good as well. Updated my to-do list to reflect the need to explore those blueprints in more detail. 
 
 **Link to work:** 
+No Github, just freecodecamp.org and my private note app. 
 
-### R1D29
+### R1D31
 **Today's Progress:** 
 
 **Learnings:**
