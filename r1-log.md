@@ -583,14 +583,18 @@ No Github, just freecodecamp.org and my private note app.
 
 ### R1D31
 **Today's Progress:** 
+Continued with Javascript basics on FreeCodeCamp. Was mostly recap so I raced through this particular section. 
 
 **Learnings:**
+Lots of my syntax problems can be solved by adding the word "return" to the code block. 
 
 **Thoughts:** 
+Felt nice to know what to do. Apparently I do remember a few of the basics. If it were this easy all the time it would be boring but to have a few easier days peppered in between can be motivating. 
 
 **Link to work:** 
+No Github, just freecodecamp.org and my private note app. 
 
-### R1D29
+### R1D32
 **Today's Progress:** 
 
 **Learnings:**
@@ -599,7 +603,7 @@ No Github, just freecodecamp.org and my private note app.
 
 **Link to work:** 
 
-### R1D29
+### R1D33
 **Today's Progress:** 
 
 **Learnings:**
@@ -608,7 +612,7 @@ No Github, just freecodecamp.org and my private note app.
 
 **Link to work:** 
 
-### R1D29
+### R1D34
 **Today's Progress:** 
 
 **Learnings:**
@@ -617,7 +621,7 @@ No Github, just freecodecamp.org and my private note app.
 
 **Link to work:** 
 
-### R1D29
+### R1D35
 **Today's Progress:** 
 
 **Learnings:**
@@ -626,7 +630,7 @@ No Github, just freecodecamp.org and my private note app.
 
 **Link to work:** 
 
-### R1D29
+### R1D36
 **Today's Progress:** 
 
 **Learnings:**
@@ -635,7 +639,7 @@ No Github, just freecodecamp.org and my private note app.
 
 **Link to work:** 
 
-### R1D29
+### R1D37
 **Today's Progress:** 
 
 **Learnings:**
@@ -644,7 +648,7 @@ No Github, just freecodecamp.org and my private note app.
 
 **Link to work:** 
 
-### R1D29
+### R1D38
 **Today's Progress:** 
 
 **Learnings:**
@@ -653,7 +657,7 @@ No Github, just freecodecamp.org and my private note app.
 
 **Link to work:** 
 
-### R1D29
+### R1D39
 **Today's Progress:** 
 
 **Learnings:**
@@ -662,7 +666,7 @@ No Github, just freecodecamp.org and my private note app.
 
 **Link to work:** 
 
-### R1D29
+### R1D40
 **Today's Progress:** 
 
 **Learnings:**
