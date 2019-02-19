@@ -587,6 +587,7 @@ Continued with Javascript basics on FreeCodeCamp. Was mostly recap so I raced th
 
 **Learnings:**
 Lots of my syntax problems can be solved by adding the word "return" to the code block. 
+Also it occurred to me that I could start coding something more complex and just include as much logic and content as I know and use placeholders where I specify what exactly needs to be added (or at least what I know and possibly what I need to learn). 
 
 **Thoughts:** 
 Felt nice to know what to do. Apparently I do remember a few of the basics. If it were this easy all the time it would be boring but to have a few easier days peppered in between can be motivating. 
@@ -596,12 +597,16 @@ No Github, just freecodecamp.org and my private note app.
 
 ### R1D32
 **Today's Progress:** 
+Javascript basics on FreeCodeCamp. Much slower then yesterday. 
 
 **Learnings:**
+Switch statements and return. 
 
 **Thoughts:** 
+We have more passive knowledge of things then we know. 
 
 **Link to work:** 
+No Github, just freecodecamp.org and my private note app. 
 
 ### R1D33
 **Today's Progress:** 
