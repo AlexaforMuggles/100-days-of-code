@@ -610,12 +610,16 @@ No Github, just freecodecamp.org and my private note app.
 
 ### R1D33
 **Today's Progress:** 
+More FreeCodeCamp Basic JavaScript. 
 
 **Learnings:**
+Complex/nested arrays, object notation and converting switch statements into objects. 
 
 **Thoughts:** 
+Although it can be frustrating I am slowly starting to enjoy this in its own way. These challenges feel like other people's crossword puzzle. Except if I keep at this I can build something cool eventually and maybe even things which are not Alexa related. 
 
 **Link to work:** 
+No Github, just freecodecamp.org and my private note app. 
 
 ### R1D34
 **Today's Progress:** 
