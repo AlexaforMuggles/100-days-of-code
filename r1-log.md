@@ -623,12 +623,16 @@ No Github, just freecodecamp.org and my private note app.
 
 ### R1D34
 **Today's Progress:** 
+Finished the JS basics on FreeCodeCamp. 
 
 **Learnings:**
+Did loops, parseInt & ternery operators among other things. 
 
 **Thoughts:** 
+Surprised myself by somewhat getting simple loops. Nested loops are another story though. Way over my head for now. 
 
 **Link to work:** 
+No Github, just freecodecamp.org and my private note app. 
 
 ### R1D35
 **Today's Progress:** 
