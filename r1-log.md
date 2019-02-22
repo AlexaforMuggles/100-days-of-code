@@ -636,12 +636,17 @@ No Github, just freecodecamp.org and my private note app.
 
 ### R1D35
 **Today's Progress:** 
+ES 6 on FreeCodeCamp. 
 
 **Learnings:**
+var, let, const, arrow functions, preventing object mutation
 
 **Thoughts:** 
+Progressed fine but started so late that I didn't make the full hour. 
+I am not sure I was aware of the reasons why a lot of changes in ES6 were made, so it's nice to know the background. Helps with understanding. 
 
 **Link to work:** 
+No Github, just freecodecamp.org and my private note app. 
 
 ### R1D36
 **Today's Progress:** 
