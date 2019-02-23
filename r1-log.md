@@ -636,7 +636,7 @@ No Github, just freecodecamp.org and my private note app.
 
 ### R1D35
 **Today's Progress:** 
-ES 6 on FreeCodeCamp. 
+ES6 on FreeCodeCamp. 
 
 **Learnings:**
 var, let, const, arrow functions, preventing object mutation
@@ -650,10 +650,18 @@ No Github, just freecodecamp.org and my private note app.
 
 ### R1D36
 **Today's Progress:** 
+ES6 von FreeCodeCamp. Exceptionally slow progress as those higher order arrow functions task combined all kinds of things I don't yet understand. 
 
 **Learnings:**
+Discovered .pow and recapped what I had never really understood properly: .filter and .map. I understand what these methods are for, just don't remember the syntax or how to adapt it for whatever you are trying to do. 
 
 **Thoughts:** 
+There are varying stages we have to go through: 
+1. learn that something exists 
+2. learn why it exists
+3. learn the correct syntax
+4. learn to apply that to simple problems
+5. learn to apply that to more complex problems
 
 **Link to work:** 
 
