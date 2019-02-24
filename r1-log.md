@@ -650,7 +650,7 @@ No Github, just freecodecamp.org and my private note app.
 
 ### R1D36
 **Today's Progress:** 
-ES6 von FreeCodeCamp. Exceptionally slow progress as those higher order arrow functions task combined all kinds of things I don't yet understand. 
+ES6 from FreeCodeCamp. Exceptionally slow progress as those higher order arrow functions task combined all kinds of things I don't yet understand. 
 
 **Learnings:**
 Discovered .pow and recapped what I had never really understood properly: .filter and .map. I understand what these methods are for, just don't remember the syntax or how to adapt it for whatever you are trying to do. 
@@ -664,15 +664,22 @@ There are varying stages we have to go through:
 5. learn to apply that to more complex problems
 
 **Link to work:** 
+No Github, just freecodecamp.org and my private note app. 
 
 ### R1D37
 **Today's Progress:** 
+Continued with ES6. Some of the exercises where easy because I had encountered the concepts already when working on Alexa. 
 
 **Learnings:**
+More destructuring and classes. 
 
 **Thoughts:** 
+I had a little flashback to the year 2001: back then I was studying for the Cambridge Advanced Certificate. We discussed a bunch of grammatical concepts which up until then had never made sense to me but then fell into place. It occurred to me that studying English was less of a linear endeavour and instead had much more of a revolving nature. Like planets orbiting the sun topics came up again and again and if you didn't get it the first time you could still move on and then pick it up later. So if I only understand 10% of destructuring I can always circle back later and see if it makes more sense the second, third or eight time around. 
+I think in my head JS is a mixture of ES5 and ES6 and sometimes I am not sure which is which. 
+While I understand the purpose of destructuring I find the syntax pretty complicated. It seems that having a line more code but at least everything being logically laid out makes more sense then some of the more obscure ways of rewriting things. 
 
 **Link to work:** 
+No Github, just freecodecamp.org and my private note app. 
 
 ### R1D38
 **Today's Progress:** 
