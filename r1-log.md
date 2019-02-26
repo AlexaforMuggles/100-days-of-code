@@ -683,12 +683,17 @@ No Github, just freecodecamp.org and my private note app.
 
 ### R1D38
 **Today's Progress:** 
+Finished the ES6 section. Then continued with an Alexa trivia skill. Inserted the questions, updated the references and tested the skill. Two bugs: it doesn't read large numbers like 500'000 correctly and the sound effects in the array don't work. 
 
 **Learnings:**
+Import/export keywords. 
 
 **Thoughts:** 
+Overall ES6 was a very useful module as it explains some of the syntax I didn't get in Alexa. However it seems that people mix and match ES5 and ES6 features and that can get confusing. 
+It was good returning to the Alexa skill. Sometimes a little break to do something different can feel invigorating upon return. 
 
 **Link to work:** 
+This Github repo is private. 
 
 ### R1D39
 **Today's Progress:** 
