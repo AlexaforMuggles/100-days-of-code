@@ -697,6 +697,33 @@ This Github repo is private.
 
 ### R1D39
 **Today's Progress:** 
+Did some regular expressions on FreeCodeCamp. Was fairly straightforward. 
+
+**Learnings:**
+I didn't know any of the ways that JS could search for or find stuff. 
+
+**Thoughts:** 
+This was logical. If I hadn't been incredibly distracted I might have finished everything in one go. 
+
+**Link to work:** 
+Just FreeCodeCamp, no Github. 
+
+### R1D40
+**Today's Progress:** 
+Finished regular expressions and the debugging section on FreeCodeCamp and did half of the basic data structures section. Even managed to supply one of the missing solutions to Github. 
+
+**Learnings:**
+Regex codes, arrays and methods. 
+
+**Thoughts:** 
+Did my first pull request but the repo is quite confusing. Not sure if I did it right. Still proud that I actually knew something that was not there yet. 
+Today was surprisingly easy with very few exceptions. Things like splice, that I didn't use to get seemed logical today. And apparently the constant debugging with Alexa led to me speeding through the debugging section which I had anticipated to be much more difficult. 
+
+**Link to work:** 
+Just FreeCodeCamp, no Github. 
+
+### R1D41
+**Today's Progress:** 
 
 **Learnings:**
 
@@ -704,7 +731,88 @@ This Github repo is private.
 
 **Link to work:** 
 
-### R1D40
+### R1D42
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D43
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D44
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D45
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D46
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D47
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D48
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D49
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D50
+**Today's Progress:** 
+
+**Learnings:**
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D51
 **Today's Progress:** 
 
 **Learnings:**
