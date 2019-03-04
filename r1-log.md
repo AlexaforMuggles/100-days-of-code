@@ -724,21 +724,39 @@ Just FreeCodeCamp, no Github.
 
 ### R1D41
 **Today's Progress:** 
+Finished the Basic Data Structures section on FreeCodeCamp. 
 
 **Learnings:**
+Nested arrays and objects. Adding and deleting stuff from them. 
 
 **Thoughts:** 
+Was a bit more difficult than yesterday but only a few things were truly baffling. Most made sense. 
 
 **Link to work:** 
+Just FreeCodeCamp, no Github. 
 
 ### R1D42
 **Today's Progress:** 
+Started with Basic Algorithm Scripting. The first challenge was simple but already the second was too hard. 
 
 **Learnings:**
+I like breaking problems down like this: 
+
+function reverseString(str) {
+  // take the string and break it into letters in an array, eg. [h,e, l, l, o]
+  // reverse the element's order [o, l, l, e, h]
+  // convert the array into a string again eg o, l, l, e, h
+  // join everything together again olleh
+  // return reversed string (revStr)
+}
+
+However even that didn't bring me close to the solution. I find that when I read other people's comments and solutions shit doesn't click. I get single concepts but putting them together seems too much to ask now. 
 
 **Thoughts:** 
+Slowing down takes humility. I feel a bit angry actually. You would think that after all of these hours you'd know more or at least could somewhat competently help yourself. The instinct is to race through things and experience the dopamine hit of speedy progress. However here I need to slow down much more instead of speeding up. The first challenge was simple but already the second had me stymied. So tomorrow I shall return to that and see if my brain actually remembers anything from the solution that I had to look at today. Keep doing this until it makes sense. Only progress to the next challenge when you have done it often enough to not require hints or solutions. 
 
 **Link to work:** 
+Just FreeCodeCamp, no Github. 
 
 ### R1D43
 **Today's Progress:** 
