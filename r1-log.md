@@ -760,12 +760,16 @@ Just FreeCodeCamp, no Github.
 
 ### R1D43
 **Today's Progress:** 
+It's been one of the shittiest fucking sessions. Apparently I can work through simple exercises (barely) but the moment you have to put shit together I know nothing. 
 
 **Learnings:**
+None
 
 **Thoughts:** 
+Why the fuck am I doing this? Why? Not even sure it really helps with Alexa since they are making it possible to make everything code-free anyway. Feeling incredibly fucking pissed off. 
 
 **Link to work:** 
+No work 
 
 ### R1D44
 **Today's Progress:** 
