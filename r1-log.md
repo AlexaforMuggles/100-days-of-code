@@ -773,12 +773,16 @@ No work
 
 ### R1D44
 **Today's Progress:** 
+After a meltdown last week I picked things up again with the current Alexa skill. Updated the code using newer samples but there's a bug I have to solve. The whole thing doesn't start up but at least I have hope that the issues I had before with the audio will be gone with this update. 
 
 **Learnings:**
+The Quiz and Trivia sample code are completely different. 
 
 **Thoughts:** 
+After my JS FreeCodeCamp detour it's a bit slow getting back into the Alexa framework and mindset. Hopefully next week I will fix the bug. Even if I do I still feel stumped about the logic bit that I want to implement that determines if the user or the monkey won. Probably I'll get a code mentor to help out. 
 
 **Link to work:** 
+Will publish the link once the skill is certified. 
 
 ### R1D45
 **Today's Progress:** 
