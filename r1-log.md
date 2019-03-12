@@ -786,12 +786,17 @@ Will publish the link once the skill is certified.
 
 ### R1D45
 **Today's Progress:** 
+Reverted back to the original index.js file since I couldn't get the experimental code to even start-up properly. Tried to debug the issue where Alexa reads out the link of the sound effect instead of just playing it. Got some help in the forum but couldn't get it to work just yet. 
 
 **Learnings:**
+Nada
 
 **Thoughts:** 
+RokasV should be made an Alexa champion. He answers almost every question in the forum, what a gem. 
+I had noticed the issue he mentioned as well, just not sure yet where in the code to properly implement it and how to do it with an array. 
 
 **Link to work:** 
+Will publish the link once the skill is certified. 
 
 ### R1D46
 **Today's Progress:** 
